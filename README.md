@@ -19,21 +19,21 @@
 - [Ubiquitous Fashionable Competition] Prize of Ministry of Science, ICT and Future Planning (Nov, 2016)
 - [Nexon Idea Challenge] 1st Place (University Competition) (Aug, 2017)
 
-<div align=center>
+<!-- <div align=center> -->
 
 	
 ### ⚒ Tech Stack
   Techs that I've used at least once
-  <br/><br/>
+  <br/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
   
 
-</div>
+<!-- </div> -->
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **TB2715/TB2715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
