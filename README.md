@@ -3,9 +3,26 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
-  
+
+### 👏 About me
+- 🌱 I’m currently learning `Natural Language Understanding`, especially `NER` & `Text Classification`
+- 🏫 I majored in Computer Science and Engineering, at Chungnam National University
+- 📫 How to reach me: hjkim2714@gmail.com
+
+
+### 👍 Experiences 
+- [CNU, Intelligent Software Lab] M.S (Mar, 2020 - Feb, 2022)
+- [UC Irvine Visiting Researcher] (Jun, 2019 - Aug, 2019)
+
+
+### 🥇 Competitions 
+- [Ubiquitous Fashionable Competition] Prize of Ministry of Science, ICT and Future Planning (Nov, 2016)
+- [Nexon Idea Challenge] 1st Place (University Competition) (Aug, 2017)
+
 <div align=center>
-  <h2> ⚒ Tech Stack ⚒ </h2>
+
+	
+### ⚒ Tech Stack
   Techs that I've used at least once
   <br/><br/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
