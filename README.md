@@ -5,7 +5,7 @@
   </div>
 
 ### 👏 About me
-- 🌱 I’m currently learning `Natural Language Understanding`, especially `NER` & `Text Classification`
+- 🌱 I’m currently learning `Natural Language Understanding`
 - 🏫 I majored in Computer Science and Engineering, at Chungnam National University
 - 📫 How to reach me: hjkim2714@gmail.com
 
@@ -22,14 +22,11 @@
 <!-- <div align=center> -->
 
 	
-### ⚒ Tech Stack
-  Techs that I've used at least once
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
-  
+### 💪 Tech Stack
+<b>Platforms & Languages</b>
+<!-- <br/> -->
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>  
 
 <!-- </div> -->
 
