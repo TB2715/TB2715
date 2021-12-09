@@ -1,13 +1,12 @@
-  <div align=center>
+<!--   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
-  </div>
+  </div> -->
 
 ### 👏 About me
 - 🌱 I’m currently learning `Natural Language Understanding`
 - 🏫 I majored in Computer Science and Engineering, at Chungnam National University
-- 📫 How to reach me: hjkim2714@gmail.com
 
 
 ### 👍 Experiences 
