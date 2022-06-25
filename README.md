@@ -10,6 +10,7 @@
 
 
 ### 👍 Experiences 
+- [Naver Connect, Boostcamp AI Tech 3기] NLP track (Jan, 2022 - Jun, 2022)
 - [CNU, Intelligent Software Lab] M.S (Mar, 2020 - Feb, 2022)
 - [UC Irvine Visiting Researcher] (Jun, 2019 - Aug, 2019)
 
